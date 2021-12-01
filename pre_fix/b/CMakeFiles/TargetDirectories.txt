@@ -1,0 +1,4 @@
+/home/user/Documents/20202/C advace/BTL/pre_fix/b/CMakeFiles/rebuild_cache.dir
+/home/user/Documents/20202/C advace/BTL/pre_fix/b/CMakeFiles/edit_cache.dir
+/home/user/Documents/20202/C advace/BTL/pre_fix/b/CMakeFiles/llist.dir
+/home/user/Documents/20202/C advace/BTL/pre_fix/b/CMakeFiles/prefix.dir
